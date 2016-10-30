@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BoardsGrid", "BoardsGrid\BoardsGrid.vbproj", "{D017FE8D-21BC-469D-8B5D-30ACD1399E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D017FE8D-21BC-469D-8B5D-30ACD1399E9C}.Debug|x86.ActiveCfg = Debug|x86
+		{D017FE8D-21BC-469D-8B5D-30ACD1399E9C}.Debug|x86.Build.0 = Debug|x86
+		{D017FE8D-21BC-469D-8B5D-30ACD1399E9C}.Release|x86.ActiveCfg = Release|x86
+		{D017FE8D-21BC-469D-8B5D-30ACD1399E9C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

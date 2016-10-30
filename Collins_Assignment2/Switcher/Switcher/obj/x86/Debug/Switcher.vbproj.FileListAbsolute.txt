@@ -1,0 +1,12 @@
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.Form1.resources
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.Resources.resources
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\bin\Debug\Switcher.exe
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\bin\Debug\Switcher.pdb
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\bin\Debug\Switcher.xml
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.exe
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.xml
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.pdb
+E:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.vbproj.GenerateResource.Cache
+F:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.exe
+F:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.xml
+F:\Visual Basic\Collins_Assignment2\Switcher\Switcher\obj\x86\Debug\Switcher.pdb

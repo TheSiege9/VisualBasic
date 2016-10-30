@@ -1,0 +1,42 @@
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\bin\Debug\MailOrder.exe
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\bin\Debug\MailOrder.pdb
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\bin\Debug\MailOrder.xml
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\MailOrder.mailOrderForm.resources
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\MailOrder.Resources.resources
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\bin\Debug\MailOrder.exe
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\bin\Debug\MailOrder.pdb
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\bin\Debug\MailOrder.xml
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\obj\x86\Debug\MailOrder.mailOrderForm.resources
+C:\Users\mb717502\Desktop\Student Work\MailOrder\MailOrder\obj\x86\Debug\MailOrder.Resources.resources
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.exe
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.pdb
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.xml
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.mailOrderForm.resources
+E:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.Resources.resources
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.exe
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.pdb
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\bin\Debug\MailOrder.xml
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.mailOrderForm.resources
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.Resources.resources
+I:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.vbproj.GenerateResource.Cache
+F:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+F:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+F:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb
+J:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.exe
+J:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.xml
+J:\Visual Basic\Collins_Assignment4\MailOrder\MailOrder\MailOrder\obj\x86\Debug\MailOrder.pdb

@@ -1,0 +1,10 @@
+E:\Visual Basic\CH10_Details\CH10_Details\bin\Debug\RnrBooks.mdb
+E:\Visual Basic\CH10_Details\CH10_Details\bin\Debug\CH10_Details.exe.config
+E:\Visual Basic\CH10_Details\CH10_Details\bin\Debug\CH10_Details.exe
+E:\Visual Basic\CH10_Details\CH10_Details\bin\Debug\CH10_Details.pdb
+E:\Visual Basic\CH10_Details\CH10_Details\bin\Debug\CH10_Details.xml
+E:\Visual Basic\CH10_Details\CH10_Details\obj\x86\Debug\CH10_Details.Form1.resources
+E:\Visual Basic\CH10_Details\CH10_Details\obj\x86\Debug\CH10_Details.Resources.resources
+E:\Visual Basic\CH10_Details\CH10_Details\obj\x86\Debug\CH10_Details.exe
+E:\Visual Basic\CH10_Details\CH10_Details\obj\x86\Debug\CH10_Details.xml
+E:\Visual Basic\CH10_Details\CH10_Details\obj\x86\Debug\CH10_Details.pdb

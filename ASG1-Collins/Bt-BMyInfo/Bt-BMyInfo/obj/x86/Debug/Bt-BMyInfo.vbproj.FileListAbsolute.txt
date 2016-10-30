@@ -1,0 +1,17 @@
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\bin\Debug\Bt-BMyInfo.exe
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\bin\Debug\Bt-BMyInfo.pdb
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\bin\Debug\Bt-BMyInfo.xml
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\obj\x86\Debug\Bt_BMyInfo.InformationForm.resources
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\obj\x86\Debug\Bt_BMyInfo.Resources.resources
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.exe
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.xml
+C:\Users\LAB\AppData\Local\Temporary Projects\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.pdb
+E:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.exe
+E:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.xml
+E:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.pdb
+F:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.exe
+F:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.xml
+F:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.pdb
+J:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.exe
+J:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.xml
+J:\Visual Basic\ASG1-Collins\Bt-BMyInfo\Bt-BMyInfo\obj\x86\Debug\Bt-BMyInfo.pdb

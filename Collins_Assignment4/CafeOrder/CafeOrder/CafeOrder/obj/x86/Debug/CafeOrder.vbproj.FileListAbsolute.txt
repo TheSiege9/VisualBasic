@@ -1,0 +1,43 @@
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\bin\Debug\CafeOrder.pdb
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\bin\Debug\CafeOrder.xml
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.BillingForm.resources
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.Resources.resources
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+C:\Classes\BASIC\VB2010\Assignments\Chapter04\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+C:\Users\mb717502\Desktop\Student Work\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+C:\Users\mb717502\Desktop\Student Work\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+C:\Users\mb717502\Desktop\Student Work\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.pdb
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.xml
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.BillingForm.resources
+E:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.Resources.resources
+F:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+F:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+F:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.exe
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.xml
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.pdb
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.pdb
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.xml
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.BillingForm.resources
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.Resources.resources
+J:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.vbproj.GenerateResource.Cache
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.exe
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.pdb
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\bin\Debug\CafeOrder.xml
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.BillingForm.resources
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.Resources.resources
+I:\Visual Basic\Collins_Assignment4\CafeOrder\CafeOrder\CafeOrder\obj\x86\Debug\CafeOrder.vbproj.GenerateResource.Cache

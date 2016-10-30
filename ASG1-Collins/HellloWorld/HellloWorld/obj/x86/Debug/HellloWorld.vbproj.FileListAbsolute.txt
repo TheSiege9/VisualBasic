@@ -1,0 +1,8 @@
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\bin\Debug\HellloWorld.exe
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\bin\Debug\HellloWorld.pdb
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\bin\Debug\HellloWorld.xml
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\obj\x86\Debug\HellloWorld.Resources.resources
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\obj\x86\Debug\HellloWorld.exe
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\obj\x86\Debug\HellloWorld.xml
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\obj\x86\Debug\HellloWorld.pdb
+E:\Visual Basic\ASG1-Collins\HellloWorld\HellloWorld\obj\x86\Debug\HellloWorld.HelloForm.resources

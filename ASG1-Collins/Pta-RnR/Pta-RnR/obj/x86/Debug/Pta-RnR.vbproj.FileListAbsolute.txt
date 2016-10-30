@@ -1,0 +1,11 @@
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\bin\Debug\Pta-RnR.exe
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\bin\Debug\Pta-RnR.pdb
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\bin\Debug\Pta-RnR.xml
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\obj\x86\Debug\Pta_RnR.Form1.resources
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\obj\x86\Debug\Pta_RnR.Resources.resources
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\obj\x86\Debug\Pta-RnR.exe
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\obj\x86\Debug\Pta-RnR.xml
+C:\Users\LAB\AppData\Local\Temporary Projects\Pta-RnR\obj\x86\Debug\Pta-RnR.pdb
+E:\Visual Basic\ASG1-Collins\Pta-RnR\Pta-RnR\obj\x86\Debug\Pta-RnR.exe
+E:\Visual Basic\ASG1-Collins\Pta-RnR\Pta-RnR\obj\x86\Debug\Pta-RnR.xml
+E:\Visual Basic\ASG1-Collins\Pta-RnR\Pta-RnR\obj\x86\Debug\Pta-RnR.pdb
